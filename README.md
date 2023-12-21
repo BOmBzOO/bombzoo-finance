@@ -1,4 +1,4 @@
-# [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/)
+# [BOmBzOO's trading system](http://eplab.hanyang.ac.kr/)
 
 ## Docker-compose 실행
 
